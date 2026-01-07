@@ -42,3 +42,4 @@ echo "   python3 scraper.py https://cryptorank.io/price/kucoin-shares"
 echo "   python3 scraper.py https://cryptorank.io/incubators/y-combinator --csv"
 echo ""
 
+
